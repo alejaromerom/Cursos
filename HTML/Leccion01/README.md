@@ -1,1 +1,1 @@
-# Pruebas varias de desarrollo web FrontEnd
+# Pruebas de desarrollo web FrontEnd
